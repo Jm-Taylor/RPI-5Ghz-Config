@@ -22,6 +22,14 @@ For Canada, this would be:
 sudo im reg set CA 
 ```
 
+## Running the script
+
+```bash
+./setupWifiAP5G.sh TEAM TEAM_NUMBER PASSWORD COUNTRY_CODE CHANNEL
+```
+
+Using the lookup table **5G-WIFI-LIST** it is possible for **interfaceSetUp** to get the correct index and apply it to **hostapd**. 
+
 ## Explaining hostapd 
 
 - **hw_mode=a** Will set the interface to 5GHz
@@ -35,6 +43,7 @@ sudo im reg set CA
 1. DFS bandwidths should not be used as weather and radar have priority. If a DFS pulse is sent out, this will halt the wifi for the countries specific wait period. For example, 10s in Europe. 
 2. Some bandwidths cannot be used outside. For example, for Canada, the **5150 - 5250** range is restricted to indoor use only. 
 3. Some countries have the **5150 - 5250** & **5735 - 5835** bandwidths, whereas others only have the **5150 - 5250** bandwidths. 
+4. If an incorrect channel is selected **interfaceSetUp** does not change to the selected channel.
 
 ## Country Codes with valid channels
 
