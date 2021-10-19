@@ -90,6 +90,7 @@ Country Code: **JP3**
 Valid Channels: **36(idx 38), 40(idx 38), 44(idx 46)**
 
 country JP: DFS-JP
+
 - (2402 - 2482 @ 40), (N/A, 20), (N/A)
 - (2474 - 2494 @ 20), (N/A, 20), (N/A), NO-OFDM
 - (4910 - 4990 @ 40), (N/A, 23), (N/A)
@@ -105,7 +106,16 @@ country JP: DFS-JP
 
 Country Code: **DE**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46), 149(idx 151), 153(idx 151), 157(idx 159), 161(idx 159)**
+
+country DE: DFS-ETSI
+
+- (2400 - 2483 @ 40), (N/A, 20), (N/A)
+- (5150 - 5250 @ 80), (N/A, 20), (N/A), NO-OUTDOOR, AUTO-BW
+- (5250 - 5350 @ 80), (N/A, 20), (0 ms), NO-OUTDOOR, DFS, AUTO-BW
+- (5470 - 5725 @ 160), (N/A, 26), (0 ms), DFS
+- (5725 - 5875 @ 80), (N/A, 13), (N/A)
+- (57000 - 66000 @ 2160), (N/A, 40), (N/A)
 
 ---
 
@@ -113,7 +123,16 @@ Vaild Channels:
 
 Country Code: **NL**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46), 149(idx 151), 153(idx 151), 157(idx 159), 161(idx 159)**
+
+country NL: DFS-ETSI
+
+- (2402 - 2482 @ 40), (N/A, 20), (N/A)
+- (5170 - 5250 @ 80), (N/A, 20), (N/A), NO-OUTDOOR, AUTO-BW
+- (5250 - 5330 @ 80), (N/A, 20), (0 ms), NO-OUTDOOR, DFS, AUTO-BW
+- (5490 - 5710 @ 160), (N/A, 27), (0 ms), DFS
+- (5725 - 5875 @ 80), (N/A, 13), (N/A)
+- (57000 - 66000 @ 2160), (N/A, 40), (N/A)
 
 ---
 
@@ -121,7 +140,15 @@ Vaild Channels:
 
 Country Code: **IT**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46)**
+
+country IT: DFS-ETSI
+
+- (2402 - 2482 @ 40), (N/A, 20), (N/A)
+- (5170 - 5250 @ 80), (N/A, 20), (N/A), AUTO-BW
+- (5250 - 5330 @ 80), (N/A, 20), (0 ms), DFS, AUTO-BW
+- (5490 - 5710 @ 160), (N/A, 27), (0 ms), DFS
+- (57000 - 66000 @ 2160), (N/A, 40), (N/A)
 
 ---
 
@@ -129,7 +156,15 @@ Vaild Channels:
 
 Country Code: **PT**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46)**
+
+country PT: DFS-ETSI
+
+- (2402 - 2482 @ 40), (N/A, 20), (N/A)
+- (5170 - 5250 @ 80), (N/A, 20), (N/A), AUTO-BW
+- (5250 - 5330 @ 80), (N/A, 20), (0 ms), DFS, AUTO-BW
+- (5490 - 5710 @ 160), (N/A, 27), (0 ms), DFS
+- (57000 - 66000 @ 2160), (N/A, 40), (N/A)
 
 ---   
 
@@ -137,7 +172,15 @@ Vaild Channels:
 
 Country Code: **LU**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46)**
+
+country LU: DFS-ETSI
+
+- (2402 - 2482 @ 40), (N/A, 20), (N/A)
+- (5170 - 5250 @ 80), (N/A, 20), (N/A), AUTO-BW
+- (5250 - 5330 @ 80), (N/A, 20), (0 ms), DFS, AUTO-BW
+- (5490 - 5710 @ 160), (N/A, 27), (0 ms), DFS
+- (57000 - 66000 @ 2160), (N/A, 40), (N/A)
 
 ---
 
@@ -145,7 +188,17 @@ Vaild Channels:
 
 Country Code: **NO**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46)**
+
+country NO: DFS-ETSI
+
+- (2400 - 2483 @ 40), (N/A, 20), (N/A)
+- (5150 - 5250 @ 80), (N/A, 23), (N/A), AUTO-BW
+- (5250 - 5350 @ 80), (N/A, 20), (0 ms), DFS, AUTO-BW
+- (5470 - 5795 @ 160), (N/A, 26), (0 ms), DFS
+- (5815 - 5850 @ 35), (N/A, 33), (0 ms), DFS
+- (17100 - 17300 @ 200), (N/A, 20), (N/A)
+- (57000 - 66000 @ 2160), (N/A, 40), (N/A)
 
 ---
 
@@ -153,7 +206,15 @@ Vaild Channels:
 
 Country Code: **FI**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46)**
+
+country FI: DFS-ETSI
+
+- (2400 - 2483 @ 40), (N/A, 20), (N/A)
+- (5150 - 5250 @ 80), (N/A, 23), (N/A), NO-OUTDOOR, AUTO-BW
+- (5250 - 5350 @ 80), (N/A, 20), (0 ms), NO-OUTDOOR, DFS, AUTO-BW
+- (5470 - 5725 @ 160), (N/A, 27), (0 ms), DFS
+- (57000 - 66000 @ 2160), (N/A, 40), (N/A)
 
 ---
 
@@ -161,7 +222,15 @@ Vaild Channels:
 
 Country Code: **DK**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46)**
+
+country DK: DFS-ETSI
+
+- (2400 - 2483 @ 40), (N/A, 20), (N/A)
+- (5150 - 5250 @ 80), (N/A, 23), (N/A), AUTO-BW
+- (5250 - 5350 @ 80), (N/A, 20), (0 ms), DFS, AUTO-BW
+- (5470 - 5725 @ 160), (N/A, 27), (0 ms), DFS
+- (57000 - 66000 @ 2160), (N/A, 40), (N/A), NO-OUTDOOR
 
 ---
 
@@ -169,7 +238,15 @@ Vaild Channels:
 
 Country Code: **CH**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46)**
+
+country CH: DFS-ETSI
+
+- (2402 - 2482 @ 40), (N/A, 20), (N/A)
+- (5170 - 5250 @ 80), (N/A, 20), (N/A), AUTO-BW
+- (5250 - 5330 @ 80), (N/A, 20), (0 ms), DFS, AUTO-BW
+- (5490 - 5710 @ 160), (N/A, 27), (0 ms), DFS
+- (57000 - 66000 @ 2160), (N/A, 40), (N/A)
 
 ---
 
@@ -177,7 +254,15 @@ Vaild Channels:
 
 Country Code: **CZ**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46)**
+
+country CZ: DFS-ETSI
+
+- (2400 - 2483 @ 40), (N/A, 20), (N/A)
+- (5150 - 5250 @ 80), (N/A, 23), (N/A), NO-OUTDOOR, AUTO-BW
+- (5250 - 5350 @ 80), (N/A, 20), (0 ms), NO-OUTDOOR, DFS, AUTO-BW
+- (5470 - 5725 @ 160), (N/A, 26), (0 ms), DFS
+- (57000 - 66000 @ 2160), (N/A, 40), (N/A)
 
 --- 
 
@@ -185,7 +270,16 @@ Vaild Channels:
 
 Country Code: **ES**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46), 149(idx 151), 153(idx 151), 157(idx 159), 161(idx 159)**
+
+country ES: DFS-ETSI
+
+- (2400 - 2483 @ 40), (N/A, 20), (N/A)
+- (5150 - 5250 @ 80), (N/A, 23), (N/A), NO-OUTDOOR, AUTO-BW
+- (5250 - 5350 @ 80), (N/A, 20), (0 ms), NO-OUTDOOR, DFS, AUTO-BW
+- (5470 - 5725 @ 160), (N/A, 26), (0 ms), DFS
+- (5725 - 5875 @ 80), (N/A, 13), (N/A)
+- (57000 - 66000 @ 2160), (N/A, 40), (N/A)
 
 ---
 
@@ -193,7 +287,15 @@ Vaild Channels:
 
 Country Code: **GB**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46)**
+
+country GB: DFS-ETSI
+
+- (2402 - 2482 @ 40), (N/A, 20), (N/A)
+- (5170 - 5250 @ 80), (N/A, 20), (N/A), AUTO-BW
+- (5250 - 5330 @ 80), (N/A, 20), (0 ms), DFS, AUTO-BW
+- (5490 - 5710 @ 160), (N/A, 27), (0 ms), DFS
+- (57000 - 66000 @ 2160), (N/A, 40), (N/A)
 
 ---
 
@@ -252,7 +354,15 @@ country FR: DFS-ETSI
 
 Country Code: **HK**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46), 149(idx 151), 153(idx 151), 157(idx 159), 161(idx 159)**
+
+country HK: DFS-ETSI
+
+- (2402 - 2482 @ 40), (N/A, 20), (N/A)
+- (5170 - 5250 @ 80), (N/A, 17), (N/A), AUTO-BW
+- (5250 - 5330 @ 80), (N/A, 24), (0 ms), DFS, AUTO-BW
+- (5490 - 5710 @ 160), (N/A, 24), (0 ms), DFS
+- (5735 - 5835 @ 80), (N/A, 30), (N/A)
 
 ---
 
@@ -260,7 +370,14 @@ Vaild Channels:
 
 Country Code: **SG**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46), 149(idx 151), 153(idx 151), 157(idx 159), 161(idx 159)**
+
+country SG: DFS-FCC
+
+- (2400 - 2483 @ 40), (N/A, 23), (N/A)
+- (5150 - 5250 @ 80), (N/A, 23), (N/A), AUTO-BW
+- (5250 - 5350 @ 80), (N/A, 20), (0 ms), DFS, AUTO-BW
+- (5725 - 5850 @ 80), (N/A, 30), (N/A)
 
 ---
 
@@ -268,7 +385,16 @@ Vaild Channels:
 
 Country Code: **TW**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46), 149(idx 151), 153(idx 151), 157(idx 159), 161(idx 159)**
+
+country TW: DFS-FCC
+
+- (2400 - 2483 @ 40), (N/A, 30), (N/A)
+- (5150 - 5250 @ 80), (N/A, 23), (N/A), AUTO-BW
+- (5250 - 5350 @ 80), (N/A, 23), (0 ms), DFS, AUTO-BW
+- (5470 - 5725 @ 160), (N/A, 23), (0 ms), DFS
+- (5725 - 5850 @ 80), (N/A, 30), (N/A)
+- (57000 - 66000 @ 2160), (N/A, 40), (N/A)
 
 ---
 
@@ -276,7 +402,15 @@ Vaild Channels:
 
 Country Code: **BR**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46), 149(idx 151), 153(idx 151), 157(idx 159), 161(idx 159)**
+
+country BR: DFS-FCC
+
+- (2402 - 2482 @ 40), (N/A, 20), (N/A)
+- (5170 - 5250 @ 80), (N/A, 17), (N/A), AUTO-BW
+- (5250 - 5330 @ 80), (N/A, 24), (0 ms), DFS, AUTO-BW
+- (5490 - 5730 @ 160), (N/A, 24), (0 ms), DFS
+- (5735 - 5835 @ 80), (N/A, 30), (N/A)
 
 ---
 
@@ -284,7 +418,13 @@ Vaild Channels:
 
 Country Code: **IL**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46)**
+
+country IL: DFS-ETSI
+
+- (2402 - 2482 @ 40), (N/A, 20), (N/A)
+- (5150 - 5250 @ 80), (N/A, 23), (N/A), NO-OUTDOOR, AUTO-BW
+- (5250 - 5350 @ 80), (N/A, 23), (0 ms), NO-OUTDOOR, DFS, AUTO-BW
 
 ---
 
@@ -292,7 +432,14 @@ Vaild Channels:
 
 Country Code: **SA**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46)**
+
+country SA: DFS-ETSI
+
+- (2402 - 2482 @ 40), (N/A, 20), (N/A)
+- (5170 - 5250 @ 80), (N/A, 20), (N/A), AUTO-BW
+- (5250 - 5330 @ 80), (N/A, 20), (0 ms), DFS, AUTO-BW
+- (5490 - 5710 @ 160), (N/A, 27), (0 ms), DFS
 
 ---
 
@@ -300,7 +447,16 @@ Vaild Channels:
 
 Country Code: **LB**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46), 149(idx 151), 153(idx 151), 157(idx 159), 161(idx 159)**
+
+country LB: DFS-FCC
+
+- (2402 - 2482 @ 40), (N/A, 20), (N/A)
+- (5170 - 5250 @ 80), (N/A, 17), (N/A), AUTO-BW
+- (5250 - 5330 @ 80), (N/A, 24), (0 ms), DFS, AUTO-BW
+- (5490 - 5730 @ 160), (N/A, 24), (0 ms), DFS
+- (5735 - 5835 @ 80), (N/A, 30), (N/A)
+
 
 ---
 
@@ -308,7 +464,15 @@ Vaild Channels:
 
 Country Code: **AE**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46), 149(idx 151), 153(idx 151), 157(idx 159), 161(idx 159)**
+
+country AE: DFS-FCC
+
+- (2402 - 2482 @ 40), (N/A, 20), (N/A)
+- (5170 - 5250 @ 80), (N/A, 17), (N/A), AUTO-BW
+- (5250 - 5330 @ 80), (N/A, 24), (0 ms), DFS, AUTO-BW
+- (5490 - 5730 @ 160), (N/A, 24), (0 ms), DFS
+- (5735 - 5835 @ 80), (N/A, 30), (N/A)
 
 ---
 
@@ -316,7 +480,14 @@ Vaild Channels:
 
 Country Code: **ZA**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46)**
+
+country ZA: DFS-ETSI
+
+- (2402 - 2482 @ 40), (N/A, 20), (N/A)
+- (5170 - 5250 @ 80), (N/A, 20), (N/A), AUTO-BW
+- (5250 - 5330 @ 80), (N/A, 20), (0 ms), DFS, AUTO-BW
+- (5490 - 5710 @ 160), (N/A, 30), (N/A)
 
 ---
 
@@ -324,7 +495,15 @@ Vaild Channels:
 
 Country Code: **AR**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46), 149(idx 151), 153(idx 151), 157(idx 159), 161(idx 159)**
+
+country AR: DFS-FCC
+
+- (2402 - 2482 @ 40), (N/A, 20), (N/A)
+- (5170 - 5250 @ 80), (N/A, 17), (N/A), AUTO-BW
+- (5250 - 5330 @ 80), (N/A, 24), (0 ms), DFS, AUTO-BW
+- (5490 - 5730 @ 160), (N/A, 24), (0 ms), DFS
+- (5735 - 5835 @ 80), (N/A, 30), (N/A)
 
 ---
 
@@ -332,7 +511,17 @@ Vaild Channels:
 
 Country Code: **AU**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46), 149(idx 151), 153(idx 151), 157(idx 159), 161(idx 159)**
+
+country AU: DFS-ETSI
+
+- (2400 - 2483 @ 40), (N/A, 36), (N/A)
+- (5150 - 5250 @ 80), (N/A, 23), (N/A), NO-OUTDOOR, AUTO-BW
+- (5250 - 5350 @ 80), (N/A, 20), (0 ms), NO-OUTDOOR, DFS, AUTO-BW
+- (5470 - 5600 @ 80), (N/A, 27), (0 ms), DFS
+- (5650 - 5730 @ 80), (N/A, 27), (0 ms), DFS
+- (5730 - 5850 @ 80), (N/A, 36), (N/A)
+- (57000 - 66000 @ 2160), (N/A, 43), (N/A), NO-OUTDOOR
 
 ---
 
@@ -340,7 +529,15 @@ Vaild Channels:
 
 Country Code: **AT**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46)**
+
+country AT: DFS-ETSI
+
+- (2402 - 2482 @ 40), (N/A, 20), (N/A)
+- (5170 - 5250 @ 80), (N/A, 20), (N/A), AUTO-BW
+- (5250 - 5330 @ 80), (N/A, 20), (0 ms), DFS, AUTO-BW
+- (5490 - 5710 @ 160), (N/A, 27), (0 ms), DFS
+- (57000 - 66000 @ 2160), (N/A, 40), (N/A)
 
 ---
 
@@ -348,7 +545,13 @@ Vaild Channels:
 
 Country Code: **BO**
 
-Vaild Channels: 
+Vaild Channels: **149(idx 151), 153(idx 151), 157(idx 159), 161(idx 159)**
+
+country BO: DFS-JP
+
+- (2402 - 2482 @ 40), (N/A, 20), (N/A)
+- (5250 - 5330 @ 80), (N/A, 30), (0 ms), DFS
+- (5735 - 5835 @ 80), (N/A, 30), (N/A)
 
 ---
 
@@ -356,7 +559,14 @@ Vaild Channels:
 
 Country Code: **CL**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46), 149(idx 151), 153(idx 151), 157(idx 159), 161(idx 159)**
+
+country CL: DFS-JP
+
+- (2402 - 2482 @ 40), (N/A, 20), (N/A)
+- (5170 - 5250 @ 80), (N/A, 20), (N/A), AUTO-BW
+- (5250 - 5330 @ 80), (N/A, 20), (0 ms), DFS, AUTO-BW
+- (5735 - 5835 @ 80), (N/A, 20), (N/A)
 
 ---
 
@@ -364,7 +574,15 @@ Vaild Channels:
 
 Country Code: **GR**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46)**
+
+country GR: DFS-ETSI
+
+- (2402 - 2482 @ 40), (N/A, 20), (N/A)
+- (5170 - 5250 @ 80), (N/A, 20), (N/A), AUTO-BW
+- (5250 - 5330 @ 80), (N/A, 20), (0 ms), DFS, AUTO-BW
+- (5490 - 5710 @ 160), (N/A, 27), (0 ms), DFS
+- (57000 - 66000 @ 2160), (N/A, 40), (N/A)
 
 ---
 
@@ -372,7 +590,15 @@ Vaild Channels:
 
 Country Code: **IS**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46)**
+
+country IS: DFS-ETSI
+
+- (2402 - 2482 @ 40), (N/A, 20), (N/A)
+- (5170 - 5250 @ 80), (N/A, 20), (N/A), AUTO-BW
+- (5250 - 5330 @ 80), (N/A, 20), (0 ms), DFS, AUTO-BW
+- (5490 - 5710 @ 160), (N/A, 27), (0 ms), DFS
+- (57000 - 66000 @ 2160), (N/A, 40), (N/A)
 
 --- 
 
@@ -380,7 +606,13 @@ Vaild Channels:
 
 Country Code: **IN**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46), 149(idx 151), 153(idx 151), 157(idx 159), 161(idx 159)**
+
+country IN: DFS-UNSET
+
+- (2402 - 2482 @ 40), (N/A, 20), (N/A)
+- (5150 - 5350 @ 160), (N/A, 23), (N/A)
+- (5725 - 5875 @ 80), (N/A, 23), (N/A)
 
 ---
 
@@ -388,7 +620,15 @@ Vaild Channels:
 
 Country Code: **IE**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46)**
+
+country IE: DFS-ETSI
+
+- (2402 - 2482 @ 40), (N/A, 20), (N/A)
+- (5170 - 5250 @ 80), (N/A, 20), (N/A), AUTO-BW
+- (5250 - 5330 @ 80), (N/A, 20), (0 ms), DFS, AUTO-BW
+- (5490 - 5710 @ 160), (N/A, 27), (0 ms), DFS
+- (57000 - 66000 @ 2160), (N/A, 40), (N/A)
 
 ---
 
@@ -396,7 +636,13 @@ Vaild Channels:
 
 Country Code: **KW**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46)**
+
+country KW: DFS-ETSI
+
+- (2402 - 2482 @ 40), (N/A, 20), (N/A)
+- (5170 - 5250 @ 80), (N/A, 20), (N/A), AUTO-BW
+- (5250 - 5330 @ 80), (N/A, 20), (0 ms), DFS, AUTO-BW
 
 ---
 
@@ -404,7 +650,14 @@ Vaild Channels:
 
 Country Code: **LI**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46)**
+
+country LI: DFS-ETSI
+
+- (2402 - 2482 @ 40), (N/A, 20), (N/A)
+- (5170 - 5250 @ 80), (N/A, 20), (N/A), AUTO-BW
+- (5250 - 5330 @ 80), (N/A, 20), (0 ms), DFS, AUTO-BW
+- (5490 - 5710 @ 160), (N/A, 27), (0 ms), DFS
 
 ---
 
@@ -412,7 +665,15 @@ Vaild Channels:
 
 Country Code: **LT**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46)**
+
+country LT: DFS-ETSI
+
+- (2402 - 2482 @ 40), (N/A, 20), (N/A)
+- (5170 - 5250 @ 80), (N/A, 20), (N/A), AUTO-BW
+- (5250 - 5330 @ 80), (N/A, 20), (0 ms), DFS, AUTO-BW
+- (5490 - 5710 @ 160), (N/A, 27), (0 ms), DFS
+- (57000 - 66000 @ 2160), (N/A, 40), (N/A)
 
 ---
 
@@ -420,7 +681,15 @@ Vaild Channels:
 
 Country Code: **MX**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46), 149(idx 151), 153(idx 151), 157(idx 159), 161(idx 159)**
+
+country MX: DFS-FCC
+
+- (2402 - 2482 @ 40), (N/A, 20), (N/A)
+- (5170 - 5250 @ 80), (N/A, 17), (N/A), AUTO-BW
+- (5250 - 5330 @ 80), (N/A, 24), (0 ms), DFS, AUTO-BW
+- (5490 - 5730 @ 160), (N/A, 24), (0 ms), DFS
+- (5735 - 5835 @ 80), (N/A, 30), (N/A)
 
 ---
 
@@ -428,7 +697,13 @@ Vaild Channels:
 
 Country Code: **MA**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46)**
+
+country MA: DFS-ETSI
+
+- (2402 - 2482 @ 40), (N/A, 20), (N/A)
+- (5170 - 5250 @ 80), (N/A, 20), (N/A), AUTO-BW
+- (5250 - 5330 @ 80), (N/A, 20), (0 ms), DFS, AUTO-BW
 
 ---
 
@@ -436,7 +711,15 @@ Vaild Channels:
 
 Country Code: **NZ**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46), 149(idx 151), 153(idx 151), 157(idx 159), 161(idx 159)**
+
+country NZ: DFS-ETSI
+
+- (2402 - 2482 @ 40), (N/A, 30), (N/A)
+- (5170 - 5250 @ 80), (N/A, 17), (N/A), AUTO-BW
+- (5250 - 5330 @ 80), (N/A, 24), (0 ms), DFS, AUTO-BW
+- (5490 - 5730 @ 160), (N/A, 24), (0 ms), DFS
+- (5735 - 5835 @ 80), (N/A, 30), (N/A)
 
 ---
 
@@ -444,7 +727,15 @@ Vaild Channels:
 
 Country Code: **PL**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46)**
+
+country PL: DFS-ETSI
+
+- (2402 - 2482 @ 40), (N/A, 20), (N/A)
+- (5170 - 5250 @ 80), (N/A, 20), (N/A), AUTO-BW
+- (5250 - 5330 @ 80), (N/A, 20), (0 ms), DFS, AUTO-BW
+- (5490 - 5710 @ 160), (N/A, 27), (0 ms), DFS
+- (57000 - 66000 @ 2160), (N/A, 40), (N/A)
 
 ---
 
@@ -452,7 +743,15 @@ Vaild Channels:
 
 Country Code: **PR**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46), 149(idx 151), 153(idx 151), 157(idx 159), 161(idx 159)**
+
+country PR: DFS-FCC
+
+- (2402 - 2472 @ 40), (N/A, 30), (N/A)
+- (5170 - 5250 @ 80), (N/A, 17), (N/A), AUTO-BW
+- (5250 - 5330 @ 80), (N/A, 24), (0 ms), DFS, AUTO-BW
+- (5490 - 5730 @ 160), (N/A, 24), (0 ms), DFS
+- (5735 - 5835 @ 80), (N/A, 30), (N/A)
 
 ---
 
@@ -460,7 +759,15 @@ Vaild Channels:
 
 Country Code: **SK**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46)**
+
+country SK: DFS-ETSI
+
+- (2402 - 2482 @ 40), (N/A, 20), (N/A)
+- (5170 - 5250 @ 80), (N/A, 20), (N/A), AUTO-BW
+- (5250 - 5330 @ 80), (N/A, 20), (0 ms), DFS, AUTO-BW
+- (5490 - 5710 @ 160), (N/A, 27), (0 ms), DFS
+- (57000 - 66000 @ 2160), (N/A, 40), (N/A)
 
 ---
 
@@ -468,7 +775,15 @@ Vaild Channels:
 
 Country Code: **SI**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46)**
+
+country SI: DFS-ETSI
+
+- (2402 - 2482 @ 40), (N/A, 20), (N/A)
+- (5170 - 5250 @ 80), (N/A, 20), (N/A), AUTO-BW
+- (5250 - 5330 @ 80), (N/A, 20), (0 ms), DFS, AUTO-BW
+- (5490 - 5710 @ 160), (N/A, 27), (0 ms), DFS
+- (57000 - 66000 @ 2160), (N/A, 40), (N/A)
 
 ---
 
@@ -476,7 +791,15 @@ Vaild Channels:
 
 Country Code: **TH**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46), 149(idx 151), 153(idx 151), 157(idx 159), 161(idx 159)**
+
+country TH: DFS-FCC
+
+- (2402 - 2482 @ 40), (N/A, 20), (N/A)
+- (5170 - 5250 @ 80), (N/A, 17), (N/A), AUTO-BW
+- (5250 - 5330 @ 80), (N/A, 24), (0 ms), DFS, AUTO-BW
+- (5490 - 5730 @ 160), (N/A, 24), (0 ms), DFS
+- (5735 - 5835 @ 80), (N/A, 30), (N/A)
 
 ---
 
@@ -484,7 +807,14 @@ Vaild Channels:
 
 Country Code: **UY**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46), 149(idx 151), 153(idx 151), 157(idx 159), 161(idx 159)**
+
+country UY: DFS-FCC
+
+- (2402 - 2482 @ 40), (N/A, 20), (N/A)
+- (5170 - 5250 @ 80), (N/A, 23), (N/A), AUTO-BW
+- (5250 - 5330 @ 80), (N/A, 23), (0 ms), DFS, AUTO-BW
+- (5735 - 5835 @ 80), (N/A, 30), (N/A)
 
 ---
 
@@ -492,7 +822,14 @@ Vaild Channels:
 
 Country Code: **PA**
 
-Vaild Channels: 
+Vaild Channels: **36(idx 38), 40(idx 38), 44(idx 46), 149(idx 151), 153(idx 151), 157(idx 159), 161(idx 159)**
+
+country PA: DFS-FCC
+
+- (2402 - 2472 @ 40), (N/A, 30), (N/A)
+- (5170 - 5250 @ 80), (N/A, 17), (N/A), AUTO-BW
+- (5250 - 5330 @ 80), (N/A, 23), (0 ms), DFS, AUTO-BW
+- (5735 - 5835 @ 80), (N/A, 30), (N/A)
 
 ---
 
